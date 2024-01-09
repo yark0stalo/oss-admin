@@ -1,0 +1,16 @@
+.project-logo{
+    width: 10vh;
+}
+
+.previews{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.previews li img{
+    width: 25vh;
+}
+
+.project-links{
+    list-style: none;
+}

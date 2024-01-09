@@ -1,0 +1,21 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+main{
+  width: 100vw;
+}
+
+.full-project-info{
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  border: 1px solid #333;
+  border-radius: 10px;
+}
+
+.previews{
+  display: flex;
+  list-style: none;
+}
